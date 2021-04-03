@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> search book by title </TITLE>
+  
+<link rel="stylesheet" href="web.css"></link>
+  
+
+ <BODY id="srhbdy">
+ <h1 id="srhh1"><ins>Search book by title</ins></h1>
+ <div id="srhdiv">
+ <fieldset id="fset">
+ <legend>Title to be searched</legend>
+ <input id="srhinp"></input>
+
+ </fieldset>
+ </div>
+  
+ </BODY>
+</HTML>

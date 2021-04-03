@@ -1,0 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Remove book details </TITLE>
+   <link rel="stylesheet" href="web.css"></link>
+  
+
+ 
+ </HEAD>
+
+ <BODY id="rbbody">
+ <h1 id="rbh1"><ins>Remove book Details</ins></h1>
+ <div id="rbdiv">
+ Book Title
+ <input id="rbinp"></input>
+ <br></br>
+ <input id="rbinp1" type="button" value="Remove Book"></input>
+  </div>
+ </BODY>
+</HTML>

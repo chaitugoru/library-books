@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> home page </TITLE>
+  <link rel="stylesheet" href="web.css"></link>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+  
+ </HEAD>
+
+ <BODY id="hmpgbdy">
+ <h1 id="hmpgh1">Welcome to library management system</h1>
+ <div id="hmpgdiv">
+ <ul>
+ <a class="hmpga" href="file:///home/anusha/Documents/HTML/externalcss/library%20project/webpage.html"><i class="fa fa-hand-o-right"></i>Enter 1 to add book</a><br></br>
+ <a class="hmpga" href="file:///home/anusha/Documents/HTML/externalcss/library%20project/searchbook.html"><i class="fa fa-hand-o-right"></i>Enter 2 to search book by title</a><br></br>
+ <a class="hmpga" href="file:///home/anusha/Documents/HTML/externalcss/library%20project/update%20book.html"><i class="fa fa-hand-o-right"></i>Enter 3 to update book details</a><br></br>
+ <a class="hmpga" href="file:///home/anusha/Documents/HTML/externalcss/library%20project/removebook%20details.html"><i class="fa fa-hand-o-right"></i>Enter 4 to remove book</a><br></br>
+ </ul>
+ <input id="hmpginp" placeholder="enter your choice"></input>
+ <input id="btn" type="button" value="Go"></input>
+ </div>
+  
+ </BODY>
+</HTML>
